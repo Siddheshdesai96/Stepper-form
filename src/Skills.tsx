@@ -8,7 +8,7 @@ const Skills: React.FC = () => {
   return (
     <div
       className={css({
-        maxWidth: "600px",
+        maxWidth: "900px",
         margin: "auto",
         marginTop: "20px",
       })}
